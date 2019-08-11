@@ -109,13 +109,13 @@ analytics:
 author:
   name             : "DeukWon Seo"
   avatar           : "/assets/images/SDW_simpson.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Interested in Full Stack"
+  bio              : "공부에 끝은 없다."
   location         : "Seoul, Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:star12ap@gmail.com
+      url: mailto:star12ap@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
