@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "DeukWon Seo"
-  avatar           : "/assets/images/SDW_simpson.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/SDW_simpson.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Interested in Full Stack"
   location         : "Seoul, Korea"
   email            :
