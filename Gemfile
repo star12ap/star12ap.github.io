@@ -15,4 +15,5 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
 end
 
+gem 'jekyll-include-cache'
 #gemspec
