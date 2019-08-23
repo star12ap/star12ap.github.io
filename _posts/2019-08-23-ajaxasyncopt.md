@@ -10,6 +10,7 @@ toc: true
 ---
 
 ## Explain
+
 ajax로 여러가지를 하다보니 다음과 같은 현상이 있었다.
 
 1. 기본적으로 ajaxcall을 할 때 사용하는 XMLHttpRequest.open에서 async 옵션을 false로 줘도 ajaxcall 이전의 것은 painting을 한다.
